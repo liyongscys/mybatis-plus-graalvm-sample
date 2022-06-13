@@ -4,7 +4,7 @@
 - VS2019
 - GraalVM Updater 21.3.2  具体为 graalvm-ce-java11-21.3.2
 
-VS2019 build工具安装详情
+### VS2019 build工具安装详情
 ![x](./images/VS%20build%20Tool.png)
 
 参考  
