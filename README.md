@@ -1,4 +1,4 @@
-# mybatis-plus--graalvm-sample
+# mybatis-plus-graalVM-sample
 ## 编译环境
 - win10 21H2 内部版本 19044.1706
 - VS2019
