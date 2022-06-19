@@ -1,3 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db/changelog/empty-dml-change.xml
