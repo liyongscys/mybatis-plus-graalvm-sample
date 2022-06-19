@@ -26,7 +26,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <!-- 其它组件版本号 -->
-        <mybatis-plus.version>3.5.1</mybatis-plus.version>
+        <mybatis-plus.version>3.5.2</mybatis-plus.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <mybatis-spring-native.version>0.1.0-SNAPSHOT</mybatis-spring-native.version>
         <spring-experimental.version>0.12.0</spring-experimental.version>
@@ -103,8 +103,6 @@
             <artifactId>mybatis-plus-boot-starter</artifactId>
             <version>${mybatis-plus.version}</version>
         </dependency>
-		
-        
 
         <!-- mybatis spring native -->
         <dependency>
